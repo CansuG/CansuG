@@ -13,16 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="100"/>
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/cansu-g%C3%BCrel/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=CansuG&style=flat-square&color=blue" alt=""/>
-</div>
+<a href="https://www.linkedin.com/in/cansu-g%C3%BCrel/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=CansuG&style=flat-square&color=blue" alt=""/>
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CansuG&theme=dark&background=000000)](https://git.io/streak-stats)
